@@ -42,8 +42,6 @@ The analysis revealed 5 distinct customer segments:
 * **Careful/Thrifty:** High-income customers who spend very little.
 * **Sensible:** Low-income customers who also have a low spending score.
 
-*(Note: To display an image of your final plot, upload the screenshot to your GitHub repository and add a line like this: `![Customer Segments Plot](your_image_name.png)`)*
-
 ---
 
 ## How to Run This Project
